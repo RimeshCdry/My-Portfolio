@@ -233,9 +233,9 @@ span{
     61%,80%{
         content: "Web Developer";
     }
-    81%,100%{
+    /* 81%,100%{
         content:"SEO Specialist"
-    }
+    } */
 }
 
 @keyframes typing {
